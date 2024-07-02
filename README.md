@@ -1,8 +1,21 @@
-## Hey!Nice to see you 👋
+## Hey! Nice to see you 👋
 
 
-<p>Welcome to my page! </br> I'm Musfique Patwary, Web developer from <img src="https://github.com/Musfique55/Musfique55/assets/155256950/35dc2ad2-d62b-4bc8-9b79-2d4131ff3ace" width="15"/> <b>Dhaka, Bangladesh</b>
-<h3>Things I code with</h3>
+<p>I'm a passionate frontend developer with a keen interest in building dynamic and responsive web applications. I have experience working with React, MongoDB, and Express, and I'm currently diving into the world of Next.js to enhance my skills.
+
+## 🌟 Skills:
+
+- ### Frontend: React
+- ### Backend: Express
+- ### Database: MongoDB
+- ### Currently Learning: Next.js
+🚀 I'm always eager to learn and explore new technologies, and I love collaborating on open-source projects. Let's build something amazing together!
+
+<h2>Github Stats</h2>
+<a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Musfique55&theme=radical" alt="GitHub Streak"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musfique55&theme=radical&layout=compact&hide_border=true"/></a> 
+
+<h2>Things I code with</h2>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -20,3 +33,6 @@
   <img alt="ExpressJs" src="https://img.shields.io/badge/-Express-white?style=flat-square&logo=Express&logoColor=black" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-F7C52A?style=flat-square&logo=Firebase&logoColor=#D62B00" />
 </p>
+  
+
+
