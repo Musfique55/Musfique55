@@ -12,8 +12,8 @@
 🚀 I'm always eager to learn and explore new technologies, and I love collaborating on open-source projects. Let's build something amazing together!
 
 <h2>Github Stats</h2>
-<a href="https://git.io/streak-stats"><img align="center" intrinsicsize="300x165" src="https://github-readme-streak-stats.herokuapp.com?user=Musfique55&theme=radical" alt="GitHub Streak"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" width="418" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musfique55&theme=radical&layout=compact&hide_border=true"/></a> 
+<a href="https://git.io/streak-stats"><img align="center" width"418" src="https://github-readme-streak-stats.herokuapp.com?user=Musfique55&theme=radical" alt="GitHub Streak"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" width="418" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musfique55&theme=radical&layout=compact&hide_border=true"/></a> 
 
 <h2>Things I code with</h2>
 <p>
