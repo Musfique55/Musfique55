@@ -6,9 +6,9 @@
 ## 🌟 Skills:
 
 - ### Frontend: React
-- ### Backend: Express
+- ### Backend: Node.js, Express
 - ### Database: MongoDB
-- ### Currently Learning: Next.js
+- ### Currently Learning: Redux Tool-kit 
 🚀 I'm always eager to learn and explore new technologies, and I love collaborating on open-source projects. Let's build something amazing together!
 
 <h2>Github Stats</h2>
