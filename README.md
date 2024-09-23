@@ -1,7 +1,7 @@
 ## Hey! Nice to see you 👋
 
 
-<p>I'm a passionate frontend developer with a keen interest in building dynamic and responsive web applications. I have experience working with React, MongoDB, and Express, and I'm currently diving into the world of Next.js to enhance my skills.
+<p>I'm a passionate frontend developer with a keen interest in building dynamic and responsive web applications. I have experience working with React, MongoDB, and Express, and I'm currently diving into the world of Redux Tool-kit to enhance my skills.
 
 ## 🌟 Skills:
 
